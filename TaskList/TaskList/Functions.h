@@ -10,3 +10,4 @@ void RemoveTask();
 void SaveAndExit();
 void SortData();
 void Time();
+void Default();
