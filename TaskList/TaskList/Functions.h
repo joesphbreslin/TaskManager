@@ -1,7 +1,6 @@
 #pragma once
 
-
-void OpeningTitle();
+void SetTitle();
 void LoadData();
 void Menu();
 void AddNewTask();
