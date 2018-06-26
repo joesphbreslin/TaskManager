@@ -28,6 +28,7 @@ public:
 	void SetIsComplete(bool isComplete);
 
 	void Print();
+	void PrintTitles(int index);
 
 private:
 	std::string Name;

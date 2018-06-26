@@ -70,6 +70,9 @@ void Task::SetIsComplete(bool isComplete) {
 	Task::IsComplete = isComplete;
 }
 
+void Task::PrintTitles(int index) {
+	std::cout << index << ". " << "Task name:\t\t" << Task::Name << std::endl;
+}
 
 
 void Task::Print() {

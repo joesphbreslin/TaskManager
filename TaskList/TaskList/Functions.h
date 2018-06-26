@@ -1,5 +1,6 @@
 #pragma once
 
+
 void OpeningTitle();
 void LoadData();
 void Menu();
