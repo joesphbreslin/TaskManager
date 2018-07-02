@@ -1,5 +1,6 @@
 #pragma once
 
+int IntegerValidation(int, std::string);
 void SetTitle();
 void LoadData();
 void Menu();
